@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?fileVersion 3.0.0?>
+
+<ManagedProjectBuildInfo>
+<project id="diFireplace.com.htsoft.picc.std.projectType.hex_1.0.1.617558192" name="Hex Project Type" projectType="com.htsoft.picc.std.projectType.hex_1.0.1">
+<configuration artifactExtension="hex" artifactName="diFireplace" cleanCommand="rm -rf" description="" id="com.htsoft.picc.std.config.release.hex_1.0.1.754196423" name="Release" parent="com.htsoft.picc.std.config.release.hex_1.0.1">
+<toolChain id="com.htsoft.picc.std.toolChain.release.hex.1923076146_1.0.1" name="Release Tool Chain" superClass="com.htsoft.picc.std.toolChain.release.hex_1.0.1">
+<targetPlatform id="com.htsoft.picc.targetPlatform.1552736539" name="PIC Target" superClass="com.htsoft.picc.targetPlatform"/>
+<builder id="com.htsoft.picc.builder.make.2138638016" name="GNU MMake (PICC)" superClass="com.htsoft.picc.builder.make"/>
+<tool id="com.htsoft.picc.std.tool.assembler.2125339872_1.0.1" name="Assembler" superClass="com.htsoft.picc.std.tool.assembler_1.0.1"/>
+<tool id="com.htsoft.picc.std.tool.compiler.1412648023_1.0.1" name="Compiler" superClass="com.htsoft.picc.std.tool.compiler_1.0.1"/>
+<tool id="com.htsoft.picc.std.tool.linker.327010169_1.0.1" name="Linker" superClass="com.htsoft.picc.std.tool.linker_1.0.1"/>
+</toolChain>
+</configuration>
+<configuration artifactExtension="hex" artifactName="diFireplace" cleanCommand="rm -rf" description="" id="com.htsoft.picc.std.config.debug.hex_1.0.1.698420857" name="Debug" parent="com.htsoft.picc.std.config.debug.hex_1.0.1">
+<toolChain id="com.htsoft.picc.std.toolChain.debug.hex.1896210877_1.0.1" name="Debug Tool Chain" superClass="com.htsoft.picc.std.toolChain.debug.hex_1.0.1">
+<targetPlatform id="com.htsoft.picc.targetPlatform.531980987" name="PIC Target" superClass="com.htsoft.picc.targetPlatform"/>
+<builder id="com.htsoft.picc.builder.make.851326343" name="GNU MMake (PICC)" superClass="com.htsoft.picc.builder.make"/>
+<tool id="com.htsoft.picc.std.tool.assembler.1886874354_1.0.1" name="Assembler" superClass="com.htsoft.picc.std.tool.assembler_1.0.1"/>
+<tool id="com.htsoft.picc.std.tool.compiler.668295721_1.0.1" name="Compiler" superClass="com.htsoft.picc.std.tool.compiler_1.0.1"/>
+<tool id="com.htsoft.picc.std.tool.linker.1241461728_1.0.1" name="Linker" superClass="com.htsoft.picc.std.tool.linker_1.0.1"/>
+</toolChain>
+</configuration>
+<macros/>
+</project>
+</ManagedProjectBuildInfo>
